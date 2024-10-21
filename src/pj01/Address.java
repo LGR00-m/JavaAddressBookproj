@@ -10,7 +10,7 @@ public class Address {
 	String tel;
 	
 	
-	//생성자
+	// 생성자
 	public Address(String name, int age, String addr, String tel) {
 		this.name = name;
 		this.age = age;
