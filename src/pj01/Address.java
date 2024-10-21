@@ -23,7 +23,7 @@ public class Address {
 		return String.format("이름:%s, 나이:%s, 주소:%s, 연락처:%s",name,age,addr,tel);
 	}
 
-	// 게터
+	//게터
 	public String getName() {
 		return name;
 	}
